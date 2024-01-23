@@ -7,7 +7,7 @@
 ## ⚙️ 개발환경  
 
 • 엔진: 유니티  
-• 언어: C# 
+• 언어: C#  
 • IDE: Visual Studio  
 • VCS: Github desktop  
 
